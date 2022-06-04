@@ -9,10 +9,12 @@
     ```
     
   - 免费版解决方案
-  
-     [Typora绿色版下载](./README.assets/Typora.zip)
-     
+    
+    ![avatar](./README.assets/image-20220604230844140.png)
+    
+     [Typora绿色版下载(0.11.18 beta 版)](./README.assets/Typora.zip)
+    
      github地址：https://github.com/daimanan/soft
-     
+    
      gitee地址：https://gitee.com/daimanan/soft
 
