@@ -13,5 +13,6 @@
      [Typora绿色版下载](./README.assets/Typora.zip)
      
      github地址：https://github.com/daimanan/soft
+     
      gitee地址：https://gitee.com/daimanan/soft
 
