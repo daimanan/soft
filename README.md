@@ -12,5 +12,6 @@
   
      [Typora绿色版下载](./README.assets/Typora.zip)
      
+     github地址：
      
-
+     gitee地址：
