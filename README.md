@@ -16,5 +16,5 @@
     
      github地址：https://github.com/daimanan/soft
     
-     gitee地址：https://gitee.com/daimanan/soft
+    
 
